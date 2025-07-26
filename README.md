@@ -294,4 +294,4 @@ A marketing team is brainstorming creative ideas for a new social media campaign
 
 ## 📘 Explanations
 
-📎 [Detailed Explanations →](https://github.com/shekharbiswas/GenAI-leader/blob/main/explanations.md)
+📎 [Detailed Explanations]([https://github.com/shekharbiswas/GenAI-leader/blob/main/explanations.md](https://github.com/SB-challenge-yourself/GenAI-leader/blob/main/explanations.md))
